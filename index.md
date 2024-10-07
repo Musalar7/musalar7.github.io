@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "My Homepage for study"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -9,7 +9,7 @@ header:
     - label: "Button"
       url: "/sample/"
 excerpt: " "
-intro:
+intro: "hello?"
   - excerpt: ""
 ---
 
