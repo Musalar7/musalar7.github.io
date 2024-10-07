@@ -9,7 +9,7 @@ header:
     - label: "Button"
       url: "/sample/"
 excerpt: " "
-intro: "please hlep me"
+intro: "almost done"
   - excerpt: ""
 ---
 
